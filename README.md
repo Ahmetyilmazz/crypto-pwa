@@ -44,5 +44,5 @@
 
 ### 1️⃣ Projeyi Klonla
 ```bash
-git clone https://github.com/kullaniciadin/crypto-pwa.git
+git clone https://github.com/ahmetyilmazz/crypto-pwa.git
 cd crypto-pwa
